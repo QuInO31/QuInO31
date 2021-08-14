@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @QuInO31
-- 👀 I’m interested in making different computer languages
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my dreams
+- 👋 Hi, I’m @QuInO31 AKA Yug Shah
+- 👀 I’m interested in making different computer languages.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate with my dreams.
 - 📫 yugshah02@gmail.com
 
 <!---
