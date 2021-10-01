@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuInO31 AKA Yug Shah
-- 👀 I’m interested in making different computer languages.
+- 👀 I’m able to woking with different computer languages.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate with my dreams.
 - 📫 yugshah02@gmail.com
